@@ -19,3 +19,5 @@ public class ex1 {
 	}
 
 }
+
+O valor da variável soma é 13.
